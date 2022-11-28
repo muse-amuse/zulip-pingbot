@@ -1,10 +1,12 @@
 # zulip-pingbot
 
-Simple pingbot that notifies on zulip, if websites are down
+**NOTE**: This repo is now obsolete. See the [status](https://github.com/muse-amuse/status) repo
+
+Simple pingbot that notifies on zulip, if websites are down.
 
 ## Setup
 
-The pingbot runs on Heroku and pings the sites listed in `domains.txt` every 10 minutes. 
+The pingbot runs on Heroku and pings the sites listed in `domains.txt` every 10 minutes.
 
 ## Deploys
 
